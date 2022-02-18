@@ -3,12 +3,12 @@ This document will be part of the terms and conditions of your agreement and the
 
 See the Grants Program Process on how to submit a proposal.
 
-Project Name: Name of your project (e.g. DuoSwap Module)
+Project Name: MetaMission Chaos
 
-Team Name: Legal name of your team (e.g. Duo)
+Team Name: Brown Squared, LLC
 
-Payment Address: BTC, Ethereum (USDT/DAI) or Karura (kUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-Level: 1, 2 or 3
+Payment Address: 0x786a0CaB9B9751D48247CDd022b0582267a12077
+Level: 2
 ⚠️ The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.
 
 Project Overview 📄
@@ -20,8 +20,10 @@ Overview
 Please provide the following:
 
 If the name of your project is not descriptive, a tag line (one sentence summary).
-A brief description of your project.
+A brief description of your project. 
+*Our intention is to make the metaverse as common as VR. We will achieve this by creating a game that submerges the players into multiple facets of the metaverse; NFTs, The Sandbox, crypto, etc. Our game is MetaMission Chaos is where anything can happen. We are seeking funding for Season 1.
 An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
+
 An indication of why your team is interested in creating this project.
 Project Details
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
